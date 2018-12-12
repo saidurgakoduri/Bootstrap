@@ -1,0 +1,26 @@
+html,body
+ {
+     height:100%;
+ }
+     div,h1,p{
+    text-align: center;
+}
+
+.form
+{
+    margin-left: 500px;
+}
+#cover
+{
+
+background: #222 url("p1.jpg") center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+img{
+    max-width: 100%;
+}

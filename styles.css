@@ -1,0 +1,51 @@
+/* style.css */
+html,body{
+    height:100%;
+}
+/* fixed navbar */
+#nav-main
+{
+    position: fixed;
+    top: 0px;
+    width:100%;
+    z-index: 1;
+}
+#cover img{
+    
+    position: relative;
+    top:-200px;
+    padding-left :80%;
+}
+img{
+    max-width: 100%;
+}
+.card img{
+    margin-top: 0;
+
+}
+.form
+{
+    margin-left: 150px;
+}
+
+/* cover */
+#cover
+{
+    background: #222 url("p15.jpg") center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#cover-caption
+{
+    width: 100%;
+}
+/* footer section */
+footer 
+{
+ background-color: aquamarine;
+ height: 60px;
+}
