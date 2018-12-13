@@ -13,8 +13,9 @@ html,body{
 #cover img{
     
     position: relative;
-    top:-200px;
-    padding-left :80%;
+    top:110px;
+    left: 420px;;
+        
 }
 img{
     max-width: 100%;
@@ -42,6 +43,12 @@ img{
 #cover-caption
 {
     width: 100%;
+}
+/* google fonts and color to jumbotron*/
+.jumbotron
+{color: aqua;
+font-style: italic;
+font-family: 'Clicker Script'
 }
 /* footer section */
 footer 

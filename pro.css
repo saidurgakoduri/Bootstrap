@@ -1,0 +1,45 @@
+* {
+    color:red;
+    font-size: 20px;
+    line-height: 25px;
+}
+ul li {
+    list-style: none;
+    color:skyblue;
+ }
+ #container {
+    color:green;
+    text-align:center;
+ }
+ /*p.box {
+    padding: 20px;
+    margin: 10px;
+    width: 240px;
+    color: blue;
+ }*/
+ h2 ~ p {
+    margin-bottom: 20px;
+    color:orange;
+ }
+ #main-content #sub-content p{
+     color: greenyellow;
+ }
+ h4 + p
+ {
+    margin-bottom: 20px;
+    color:violet;
+ }
+ div > p {
+     color: beige;
+ }
+ a:hover{
+     color:black;
+ }
+ h6::first-letter {
+    color:crimson;
+    font-size:200%;
+  }
+  h5::first-line{
+    color:crimson;
+    font-size:200%;
+  }
