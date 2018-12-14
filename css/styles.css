@@ -32,7 +32,7 @@ img{
 /* cover */
 #cover
 {
-    background: #222 url("p15.jpg") center center no-repeat;
+    background: #222 url("../image/p15.jpg") center center no-repeat;
     background-size: cover;
     color: white;
     height: 100%;
